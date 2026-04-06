@@ -831,34 +831,45 @@ Improvements welcome!
 
 ## License
 
-MIT License — Use freely, modify as needed, no warranty provided.
+Public Domain. (Publick nowlege)
 
 ---
 
-## Author
-[@volkansah](https://github.com/volkansah)
+---
+
+## 💬 Support This Project
+
+The AI ecosystem has made security more critical than ever — spam, scams, and automated attacks are everywhere and getting smarter.
+
+If you find these tips useful:
+
+- ⭐ **Star this repository** to show your support
+- 💬 **Say hello in the [Discussions](../../discussions)** — feedback and war stories welcome
+- 🐛 **[Report issues](../../issues)** if something's broken or outdated
+- 💡 **Suggest improvements** or submit a PR
+- 💖 **[Sponsor my free time and tests](https://github.com/sponsors/volkansah)** — keeps this project alive
+
+> Simple tips. Hard results. Stay secure. Stay paranoid. 🔒
 
 ---
 
-## Support
+### 🔗 Related Projects
 
-Found this useful?
+#### Security Guides
 
-- ⭐ Star this repository
-- 🐛 Report issues
-- 💡 Suggest improvements
-- 💖 [Sponsor development](https://github.com/sponsors/volkansah)
-
----
-
-**Stay secure. Stay paranoid. 🔒**
-
-### Other Stuff
-##### Security Guides:
-
-- [Security Headers — Complete Implementation Guide](https://github.com/VolkanSah/Security-Headers)
-- [Securing FastAPI Applications](https://github.com/VolkanSah/Securing-FastAPI-Applications)
 - [ModSecurity Webserver Protection Guide](https://github.com/VolkanSah/ModSecurity-Webserver-Protection-Guide)
-- [GPT Security Best Practices](https://github.com/VolkanSah/GPT-Security-Best-Practices)
+- [Securing FastAPI Applications](https://github.com/VolkanSah/Securing-FastAPI-Applications)
+- [AI API (Wrapper) — Security Best Practices](https://github.com/VolkanSah/AI-API-Security-Best-Practices)
+- [WPScan — WordPress Security Scanner Guide](https://github.com/VolkanSah/WordPress-Security-Scanner-advanced-use)
+- [Detection Labs for Palantir-Style Activity](https://github.com/VolkanSah/Detection-Labs-for-Palantir-Style-Activity)
+- [Block SQL Injection Attacks in PHP](https://github.com/VolkanSah/ModSecurity-rule-to-block-SQL-injection-attacks-in-PHP)
 
-> updated 11.12.2025
+#### Other
+
+- 🤖 **[Multi-LLM API Gateway](https://github.com/VolkanSah/Multi-LLM-API-Gateway)** — A self-hosted AI hub boilerplate, works locally and on Hugging Face free tiers.
+- 🚨 **[GitHub & Social Media Scam Exposure](https://github.com/Wall-of-Shames/scammer-analysis-guide)** — Identifying and dismantling phishing campaigns and social engineering attacks on GitHub.
+- 🔐 **[How to Secure Your Git Ass](https://github.com/VolkanSah/How-to-Secure-Your-Git-Ass)** — A practical guide to protecting your GitHub presence.
+
+---
+
+> © [S. Volkan Kücükbudak](https://github.com/volkansah)
